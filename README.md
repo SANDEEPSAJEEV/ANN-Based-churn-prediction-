@@ -53,5 +53,4 @@ The goal is to build a binary classification model that predicts whether a custo
 
 ---
 
-## 🔍 Folder Structure
 
